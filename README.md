@@ -22,7 +22,7 @@ Este repositório, intitulado "Transformers", oferece recursos e código para en
 
 ## Slides Educacionais:
 
-- Materiais educacionais em slides estão disponíveis neste [drive aberto]([https://drive.google.com/drive/folders/1JlMMgrxoe3CgoG058JCTXXOQyO4gB0g_?usp=drive_link](https://drive.google.com/drive/folders/1JlMMgrxoe3CgoG058JCTXXOQyO4gB0g_?usp=drive_link)).
+- Materiais educacionais em slides estão disponíveis neste [drive aberto]([https://drive.google.com/drive/folders/1JlMMgrxoe3CgoG058JCTXXOQyO4gB0g_?usp=drive_link]).
 
 ## Por Que Usar Este Repositório?
 
