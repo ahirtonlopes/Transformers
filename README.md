@@ -33,7 +33,7 @@ Este repositório, intitulado "Transformers", oferece recursos e código para en
 ## Como Começar:
 
 1. Clone este repositório para sua máquina local.
-2. Instale as dependências necessárias usando `pip install -r requirements.txt`.
+2. Instale as dependências necessárias ou utilize o [Google Colab](https://colab.google/).
 3. Explore os notebooks e scripts fornecidos.
 4. Adapte o código para suas próprias tarefas de PLN ou conjuntos de dados.
 
